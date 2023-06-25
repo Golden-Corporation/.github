@@ -7,4 +7,4 @@ You can look at our website for this project at https://www.goldencorp.store/
 # Projects:
 GoldOS (Being rewritten, read the readme on the repo.)
 https://github.com/Golden-Corporation/GoldOS
-& More coming soon.
+& Project Indigo And More coming soon.
